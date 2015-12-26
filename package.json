@@ -2,9 +2,5 @@
 	"name": "autofill-directive",
 	"version": "2.0.1",
 	"main": "autofill-directive.js",
-	"ignore": [
-	],
-	"dependencies": {
-		"angular": ">=1.2.0"
-	}
+	"repository": "https://github.com/hillerstorm/autofill-directive"
 }
